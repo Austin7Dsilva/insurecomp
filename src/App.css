@@ -1,0 +1,32 @@
+.App {
+    h1 {
+        text-align: center;
+    }
+    .file-input {
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        input {
+            color: green;
+        }
+    }
+    .report-container {
+        padding: 20px;
+    }
+}
+
+table {
+    width: fit-content;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f4f4f4;
+}
