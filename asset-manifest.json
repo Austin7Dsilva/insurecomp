@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/insurecomp/static/css/main.3db2245e.css",
+    "main.js": "/insurecomp/static/js/main.97ea1b6a.js",
+    "static/js/453.27720864.chunk.js": "/insurecomp/static/js/453.27720864.chunk.js",
+    "index.html": "/insurecomp/index.html",
+    "main.3db2245e.css.map": "/insurecomp/static/css/main.3db2245e.css.map",
+    "main.97ea1b6a.js.map": "/insurecomp/static/js/main.97ea1b6a.js.map",
+    "453.27720864.chunk.js.map": "/insurecomp/static/js/453.27720864.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3db2245e.css",
+    "static/js/main.97ea1b6a.js"
+  ]
+}
